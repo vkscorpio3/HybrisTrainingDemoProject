@@ -1,0 +1,9 @@
+#Ignore all the files and folders
+*/*
+
+#Exclusion List
+!.gitignore
+!README.md
+!bin/custom
+!config/local.properties
+!config/localextensions.xml
